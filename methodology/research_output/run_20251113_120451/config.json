@@ -1,0 +1,9 @@
+{
+  "N": 150,
+  "method": "geometric",
+  "efficiency_levels": 40,
+  "samples_per_level": 100,
+  "num_trials": 20,
+  "K": 1.0,
+  "total_samples": 3715
+}

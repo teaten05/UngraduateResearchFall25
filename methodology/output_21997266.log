@@ -1,0 +1,37 @@
+Running QUICK TEST...
+
+======================================================================
+  GEOMETRIC DRONE NETWORK SYNCHRONIZATION PIPELINE
+======================================================================
+  N = 30 nodes
+  Efficiency: 40-55%
+  Method: Geometric (distance-based)
+  Samples: 3 levels × 5 = 15 attempts
+  Expected kept: ~13 topologies
+  Trials per topology: 5
+  Output: research_output/run_20251111_175653
+======================================================================
+
+STEP 1: Generating geometric topologies...
+🚀 Generating 15 geometric topologies...
+   N = 30 nodes
+   Efficiency range: 0.40 to 0.55
+   Using 128 threads
+
+
+✅ Generated 10 valid topologies (within efficiency range)
+✅ Generated 10 topologies
+
+STEP 2: Running simulations...
+✅ Completed 10 simulations
+
+STEP 3: Exporting ML data...
+✅ Exported 10 samples
+   Features: (10, 22)
+   Target range: [0.877, 0.956]
+   Saved to: research_output/run_20251111_175653
+
+======================================================================
+✅ PIPELINE COMPLETE!
+======================================================================
+Job completed successfully!

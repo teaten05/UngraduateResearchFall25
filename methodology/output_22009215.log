@@ -1,0 +1,142 @@
+Running FULL DATASET...
+
+======================================================================
+  GEOMETRIC DRONE NETWORK SYNCHRONIZATION PIPELINE
+======================================================================
+  N = 150 nodes
+  Efficiency: 35-55%
+  Method: Geometric (distance-based)
+  Samples: 40 levels × 100 = 4000 attempts
+  Expected kept: ~3600 topologies
+  Trials per topology: 20
+  Output: research_output/run_20251112_232637
+======================================================================
+
+STEP 1: Generating geometric topologies...
+🚀 Generating 4000 geometric topologies...
+   N = 150 nodes
+   Efficiency range: 0.35 to 0.55
+   Using 128 threads
+
+  Generated 50/4000 (1.2%)
+  Generated 100/4000 (2.5%)
+  Generated 150/4000 (3.8%)
+  Generated 200/4000 (5.0%)
+  Generated 250/4000 (6.2%)
+  Generated 300/4000 (7.5%)
+  Generated 350/4000 (8.8%)
+  Generated 400/4000 (10.0%)
+  Generated 450/4000 (11.2%)
+  Generated 500/4000 (12.5%)
+  Generated 550/4000 (13.8%)
+  Generated 600/4000 (15.0%)
+  Generated 650/4000 (16.2%)
+  Generated 700/4000 (17.5%)
+  Generated 750/4000 (18.8%)
+  Generated 800/4000 (20.0%)
+  Generated 850/4000 (21.2%)
+  Generated 900/4000 (22.5%)
+  Generated 950/4000 (23.8%)
+  Generated 1000/4000 (25.0%)
+  Generated 1050/4000 (26.2%)
+  Generated 1100/4000 (27.5%)
+  Generated 1150/4000 (28.8%)
+  Generated 1200/4000 (30.0%)
+  Generated 1250/4000 (31.2%)
+  Generated 1300/4000 (32.5%)
+  Generated 1350/4000 (33.8%)
+  Generated 1400/4000 (35.0%)
+  Generated 1450/4000 (36.2%)
+  Generated 1500/4000 (37.5%)
+  Generated 1550/4000 (38.8%)
+  Generated 1600/4000 (40.0%)
+  Generated 1650/4000 (41.2%)
+  Generated 1700/4000 (42.5%)
+  Generated 1750/4000 (43.8%)
+  Generated 1800/4000 (45.0%)
+  Generated 1850/4000 (46.2%)
+  Generated 1900/4000 (47.5%)
+  Generated 1950/4000 (48.8%)
+  Generated 2000/4000 (50.0%)
+  Generated 2050/4000 (51.2%)
+  Generated 2100/4000 (52.5%)
+  Generated 2150/4000 (53.8%)
+  Generated 2200/4000 (55.0%)
+  Generated 2250/4000 (56.2%)
+  Generated 2300/4000 (57.5%)
+  Generated 2350/4000 (58.8%)
+  Generated 2400/4000 (60.0%)
+  Generated 2450/4000 (61.2%)
+  Generated 2500/4000 (62.5%)
+  Generated 2550/4000 (63.8%)
+  Generated 2600/4000 (65.0%)
+  Generated 2650/4000 (66.2%)
+  Generated 2700/4000 (67.5%)
+  Generated 2750/4000 (68.8%)
+  Generated 2800/4000 (70.0%)
+  Generated 2850/4000 (71.2%)
+  Generated 2900/4000 (72.5%)
+  Generated 2950/4000 (73.8%)
+  Generated 3000/4000 (75.0%)
+  Generated 3050/4000 (76.2%)
+  Generated 3100/4000 (77.5%)
+  Generated 3150/4000 (78.8%)
+  Generated 3200/4000 (80.0%)
+  Generated 3250/4000 (81.2%)
+  Generated 3300/4000 (82.5%)
+  Generated 3350/4000 (83.8%)
+  Generated 3400/4000 (85.0%)
+  Generated 3450/4000 (86.2%)
+  Generated 3500/4000 (87.5%)
+  Generated 3550/4000 (88.8%)
+  Generated 3600/4000 (90.0%)
+  Generated 3650/4000 (91.2%)
+  Generated 3700/4000 (92.5%)
+  Generated 3750/4000 (93.8%)
+  Generated 3800/4000 (95.0%)
+  Generated 3850/4000 (96.2%)
+  Generated 3900/4000 (97.5%)
+  Generated 3950/4000 (98.8%)
+  Generated 4000/4000 (100.0%)
+
+✅ Generated 3715 valid topologies (within efficiency range)
+✅ Generated 3715 topologies
+
+STEP 2: Running simulations...
+  Completed 100/3715
+  Completed 200/3715
+  Completed 300/3715
+  Completed 400/3715
+  Completed 500/3715
+  Completed 600/3715
+  Completed 700/3715
+  Completed 800/3715
+  Completed 900/3715
+  Completed 1000/3715
+  Completed 1100/3715
+  Completed 1200/3715
+  Completed 1300/3715
+  Completed 1400/3715
+  Completed 1500/3715
+  Completed 1600/3715
+  Completed 1700/3715
+  Completed 1800/3715
+  Completed 1900/3715
+  Completed 2000/3715
+  Completed 2100/3715
+  Completed 2200/3715
+  Completed 2300/3715
+  Completed 2400/3715
+  Completed 2500/3715
+  Completed 2600/3715
+  Completed 2700/3715
+  Completed 2800/3715
+  Completed 2900/3715
+  Completed 3000/3715
+  Completed 3100/3715
+  Completed 3200/3715
+  Completed 3300/3715
+  Completed 3400/3715
+  Completed 3500/3715
+  Completed 3600/3715
+Job completed successfully!
