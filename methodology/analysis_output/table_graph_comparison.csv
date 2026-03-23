@@ -1,0 +1,17 @@
+Topology,Density,⟨r_final⟩,Glob. Efficiency,Avg Clustering,Avg Path Length,Notes
+Geometric (sparse),0.377,0.8929 ± 0.0169,0.3773,0.7366,1.763,empirical dataset
+Geometric (mid),0.450,0.9100 ± 0.0115,0.4496,0.7573,1.611,empirical dataset
+Geometric (dense),0.523,0.9192 ± 0.0084,0.5234,0.7785,1.496,empirical dataset
+All-to-all (N=150),1.000,≈ 1.000 (theoretical),1.000,1.000,1.000,"complete graph, K→∞ limit"
+Path (N=50),0.040,0.9962 ± 0.0022,0.1428,0.0000,17.000,simulated (N=50)
+Ring (N=50),0.041,0.5667 ± 0.2990,0.1549,0.0000,12.755,simulated (N=50)
+Small-world (k=4) (N=50),0.082,0.1403 ± 0.0661,0.3470,0.3433,3.641,simulated (N=50)
+Small-world (k=12) (N=50),0.245,0.3451 ± 0.2733,0.5859,0.5231,1.975,simulated (N=50)
+Erdős-Rényi (p=0.08) (N=50),0.073,0.2399 ± 0.1417,0.3861,0.0273,3.054,simulated (N=50)
+Erdős-Rényi (p=0.2) (N=50),0.189,0.3815 ± 0.1257,0.5744,0.1806,1.932,simulated (N=50)
+Erdős-Rényi (p=0.4) (N=50),0.385,0.4343 ± 0.2614,0.6927,0.3791,1.615,simulated (N=50)
+Scale-free (BA) (N=50),0.115,0.4230 ± 0.2541,0.4946,0.2833,2.269,simulated (N=50)
+Geometric (sparse) (N=50),0.092,0.2829 ± 0.2834,0.3126,0.5477,4.791,simulated (N=50)
+Geometric (medium) (N=50),0.227,0.3382 ± 0.1467,0.5045,0.6957,2.569,simulated (N=50)
+Geometric (dense) (N=50),0.407,0.5101 ± 0.2927,0.6791,0.7642,1.740,simulated (N=50)
+All-to-all (complete) (N=50),1.000,0.6666 ± 0.3292,1.0000,1.0000,1.000,simulated (N=50)
